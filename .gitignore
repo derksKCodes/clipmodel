@@ -1,2 +1,9 @@
 node_modules
 venv
+node_modules/
+dist/
+python_model/venv/
+*.zip
+tasks.csv
+task_logs.txt
+.env
